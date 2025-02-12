@@ -1,0 +1,10 @@
+C:\Users\Lem\Downloads\Lab01-WeeklyPayroll-Start\Lab01-WeeklyPayroll\obj\Debug\Lab01-WeeklyPayroll.csproj.AssemblyReference.cache
+C:\Users\Lem\Downloads\Lab01-WeeklyPayroll-Start\Lab01-WeeklyPayroll\obj\Debug\Lab01_WeeklyPayroll.frmPayroll.resources
+C:\Users\Lem\Downloads\Lab01-WeeklyPayroll-Start\Lab01-WeeklyPayroll\obj\Debug\Lab01_WeeklyPayroll.Properties.Resources.resources
+C:\Users\Lem\Downloads\Lab01-WeeklyPayroll-Start\Lab01-WeeklyPayroll\obj\Debug\Lab01-WeeklyPayroll.csproj.GenerateResource.cache
+C:\Users\Lem\Downloads\Lab01-WeeklyPayroll-Start\Lab01-WeeklyPayroll\obj\Debug\Lab01-WeeklyPayroll.csproj.CoreCompileInputs.cache
+C:\Users\Lem\Downloads\Lab01-WeeklyPayroll-Start\Lab01-WeeklyPayroll\bin\Debug\Lab01-WeeklyPayroll.exe.config
+C:\Users\Lem\Downloads\Lab01-WeeklyPayroll-Start\Lab01-WeeklyPayroll\bin\Debug\Lab01-WeeklyPayroll.exe
+C:\Users\Lem\Downloads\Lab01-WeeklyPayroll-Start\Lab01-WeeklyPayroll\bin\Debug\Lab01-WeeklyPayroll.pdb
+C:\Users\Lem\Downloads\Lab01-WeeklyPayroll-Start\Lab01-WeeklyPayroll\obj\Debug\Lab01-WeeklyPayroll.exe
+C:\Users\Lem\Downloads\Lab01-WeeklyPayroll-Start\Lab01-WeeklyPayroll\obj\Debug\Lab01-WeeklyPayroll.pdb
